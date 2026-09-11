@@ -6,17 +6,8 @@
   "display": "standalone",
   "background_color": "#f7f8fb",
   "theme_color": "#f7f8fb",
-  "description": "2026 임상종합평가 대비 실습 병행형 스터디 플래너",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
   ]
 }
